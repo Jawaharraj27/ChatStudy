@@ -1,6 +1,6 @@
 # Ex.No: 1b Study of Client Server Chat Applications
-# NAME : KARTHIKEYAN R
-# REGISTER NO : 212222240046
+###  NAME : KARTHIKEYAN R
+### REGISTER NO : 212222240046
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
